@@ -6,11 +6,14 @@
   align-items: center;
   width:100%;
   background-color: bisque;
-  vertical-align: text-top;
+  
 }
 .div{
   height:100vh;
   width:100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   background-color: aqua;
   
 }
