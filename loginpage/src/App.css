@@ -1,19 +1,23 @@
 
 .main-div{
-  justify-content:center;
+  /* justify-content:center; */
   display: flex;
   height:100vh;
-  align-items: center;
+  /* align-items: center; */
   width:100%;
   background-color: bisque;
   
 }
 .div{
   height:100vh;
-  width:100vh;
+  width:50%;
   display: flex;
   justify-content: center;
   align-items: center;
   background-color: aqua;
   
+}
+.div1{
+  background-color: brown;
+  width: 50%;
 }
